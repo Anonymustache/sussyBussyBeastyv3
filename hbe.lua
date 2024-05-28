@@ -7,10 +7,10 @@ local defaultsizes = {
 	['Kick'] = Vector3.new(1.1,2.4,1.1),
 }
 local editedsizes = {
-	['Punch'] = Vector3.new(1.2,2.1,1.2),
-	['Haymaker'] = Vector3.new(1.2,2.1,1.2),
-	['Uppercut'] = Vector3.new(1.2,2.1,1.2),
-	['Kick'] = Vector3.new(1.2,2.5,1.2),
+	['Punch'] = Vector3.new(3,2,1.1),
+	['Haymaker'] = Vector3.new(3,2,1.1),
+	['Uppercut'] = Vector3.new(3,2,1.1),
+	['Kick'] = Vector3.new(1.3,2.5,1.1),
 }
 local tools = {}
 local plr = game.Players.LocalPlayer
